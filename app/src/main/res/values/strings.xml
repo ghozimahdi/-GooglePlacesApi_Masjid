@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">GooglePlacesApi</string>
-    <string name="key">AIzaSyCEUBFIL2Q9VtkAkVPZkRkziM1971jkqLE</string>
+    <string name="key">AIzaSyA9B9dwYFYcQs0YqifpNE3Bzmm9yUI9C9E</string>
+    <string name="key_places2">AIzaSyAvEVysoMTZH5Y9EqkAxjd6WYkgXM84Gec</string>
+    <string name="key_places">AIzaSyAMqfAs0fsWkv_FekUS-dqjLB1djSGT4lM</string>
 </resources>
